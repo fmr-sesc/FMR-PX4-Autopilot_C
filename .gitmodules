@@ -58,7 +58,3 @@
 	path = src/modules/uxrce_dds_client/Micro-XRCE-DDS-Client
 	url = https://github.com/PX4/Micro-XRCE-DDS-Client.git
 	branch = px4
-[submodule "src/modules/mavlink/mavlink"]
-	path = src/modules/mavlink/mavlink
-	url = https://github.com/Mathis-Werner/FMR-mavlink.git
-	branch = v1.14.3-FMR-mavlink
